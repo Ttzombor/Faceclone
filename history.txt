@@ -1,0 +1,1000 @@
+   31  copeser
+   32  composer
+   33  composer global install "laravel"
+   34  composer global install "laravel/installer"
+   35  composer globalr requier "laravel/installer"
+   36  y
+   37  yes
+   38  cd PhpstormProjects
+   39  cd LaravelLearning
+   40  composer global requier "laravel/installer"
+   41  composer global require "laravel/installer"
+   42  sudo apt-get install php7.2-zip
+   43  composer global require "laravel/installer"
+   44  sudo composer global require "laravel/installer"
+   45  export PATH="/home/tibor/.config/composer/vendor/bin:$PATH"
+   46  source ~/.bash_profile
+   47  laravel
+   48  a
+   49  s
+   50  lar
+   51  laravel
+   52  composer
+   53  rm -rf ~/.composer/cache
+   54  composer
+   55  apt-get update && apt-get upgrade;
+   56  composer --version
+   57  sudo apt-get remove composer
+   58  sudo apt-get install composer
+   59  sudo apt-get install -f --fix-missing
+   60  composer --version
+   61  вшкcd
+   62  npm
+   63  npm -v
+   64  node -v
+   65  laravel -v
+   66  php -v
+   67  history
+   68  php artisan serve
+   69  php artisan 
+   70  npm
+   71  php artisan serve
+   72  cd /test
+   73  cd /tests
+   74  dir
+   75  links
+   76  cd links
+   77  cd tests
+   78  adtisan
+   79  artisan
+   80  cd artisan
+   81  php artisan
+   82  php artisan serve
+   83  /
+   84  cd /
+   85  cd sites
+   86  cd Sites
+   87  dir
+   88  cd home
+   89  dir
+   90  ё
+   91  composer global require "laravel/installer"
+   92  sudo apt-get update
+   93  composer global
+   94  a
+   95  d
+   96  sg
+   97  fgre
+   98  W
+   99  HISTORY
+  100  hisotry
+  101  history
+  102  a
+  103  composer self-update
+  104  cd PhpstormProjects
+  105  dir
+  106  cd LaravelLearning
+  107  composer
+  108  composer create-project laravel/laravel basicwebsite
+  109  curl -s https://getcomposer.org/installer | php -- --check
+  110  php composer create-project laravel/laravel basicwebsite
+  111  php --version
+  112  php composer-setup.php --install-dir=bin --filename=composer
+  113  php
+  114  php -v
+  115  php help
+  116  php composer
+  117  php --version
+  118  composer
+  119  composer diagnose
+  120  cd PhpstorProjects
+  121  cd PhpstormProjects
+  122  mkdir simpleweb
+  123  cd simpleweb
+  124  composer global require laravel/installer
+  125  php composer.phar install
+  126  php composer.phar update
+  127  composer.phar update
+  128  composer update
+  129  php -r "readfile('https://getcomposer.org/installer');" | php
+  130  mv composer.phar /usr/local/bin/composer
+  131  sudo apt-get remove composer
+  132  sudo apt-get remove --auto-remove composer
+  133  sudo apt-get purge composer
+  134  sudo apt-get purge  --auto-remove composer
+  135  php composer-setup.php --install-dir=bin --filename=composer
+  136  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  137  php -r "if (hash_file('sha384', 'composer-setup.php') === 'a5c698ffe4b8e849a443b120cd5ba38043260d5c4023dbf93e1558871f1f07f58274fc6f4c93bcfd858c6bd0775cd8d1') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  138  php composer-setup.php
+  139  php composer-setup.php --install-dir=bin --filename=composer
+  140  сщьзщыук
+  141  composer
+  142  sudo apt-get composer
+  143  sudo apt-get install composer
+  144  composer global require larabel/installer
+  145  composer create-project
+  146  composer
+  147  composer global require larabel/installer
+  148  св
+  149  cd
+  150  composer global require larabel/installer
+  151  php composer-setup.php --filename=composer.phar
+  152  php
+  153  php -v
+  154  composer -v
+  155  composer create-project
+  156  dir
+  157  PhpstormProjects
+  158  cd PhpstormProjects
+  159  dir
+  160  cd simpleweb
+  161  composer create-project laravel/laravel
+  162  COMPOSER_ALLOW_XDEBUG=1
+  163  composer create-project laravel/laravel
+  164  composer create-project
+  165  cd
+  166  composer create-project
+  167  php
+  168  sudo apt-get update
+  169  composer create-project
+  170  сщьзщыук гзвфеу --дщсл
+  171  composer update --lock
+  172  php -v
+  173  composer -v
+  174  sudo chown -R $USER $HOME/.composer
+  175  sudo chown -R $USER:$USER $HOME/.composer
+  176  dir
+  177  cs PhpstormProjects
+  178  cd PhpstormProjects
+  179  dir
+  180  cd simpleweb
+  181  cd laravel
+  182  composer require "laravelcollective/html":^5.4.0"
+  183  composer require "laravelcollective/html":"^5.4.0"
+  184  composer require "laravelcollective/html":"^5.4.0"
+  185  composer require laravelcollective/html
+  186  php artisan make:controller MessagesController
+  187  sudo apt-get install php7.3-mysql
+  188  sudo /etc/init.d/apache2 restart
+  189  sudo apt-get install apache2 apache2-mod-php7.3
+  190  sudo apt-get install phpmydamin
+  191  sudo apt-get install phpmyadmin
+  192  sudo apt-get install mysql
+  193  phpinfo() ;
+  194  phpinfo();
+  195  php -v
+  196  sudo apt-get install php7.3-mysql
+  197  php.ini
+  198  sudo apt-get install --reinstall phpmyadmin
+  199  ln -s /etc/phpmyadmin/apache.conf /etc/apache2/sites-available/phpmyadmin.conf
+  200  a2ensite phpmyadmin
+  201  service apache2 restart
+  202  sudo apt-get purge phpmyadmin
+  203  sudo apt-get install phpmyadmin
+  204  sudo dpkg-reconfigure phpmyadmin
+  205  mysql -u root -p
+  206  sudo nano /etc/php5/cli/php.ini
+  207  sudo nano /etc/php7.3/cli/php.ini
+  208  sudo nano /etc/php/7.3/cli/php.ini
+  209  sudo /etc/init.d/apache2 restar
+  210  sudo /etc/init.d/apache2 restart
+  211  mysql
+  212  sudo mysql
+  213  mysql -u root -p
+  214  sudo nano /etc/php/7.3/cli/php.ini
+  215  sudo apt-get upgrade
+  216  composer init
+  217  sudo apt-get remove --auto-remove composer
+  218  sudo apt-get purge --auto-remove composer
+  219  composer
+  220  php composer-setup.php --install-dir=bin
+  221  sudo apt install php libapache2-mod-php php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-mysql php-cli php-mcrypt php-zip
+  222  php -v
+  223  sudo nano /etc/php/7.3/apache2/php.ini 
+  224  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+  225  cd PhpstormProjects
+  226  dir
+  227  cd simpleweb
+  228  sudo composer create-project laravel/laravel SimpleWeb --prefer-dist
+  229  composer create-project laravel/laravel SimpleWeb --prefer-dist
+  230  php composer create-project laravel/laravel SimpleWeb --prefer-dist
+  231  cd
+  232  cd PhpstormProjects
+  233  cd simpleweb
+  234  sudo composer create-project laravel/laravel MyProject
+  235  sudo a2ensite laravel.config
+  236  sudo nano /etc/apache2/sites-available/laravel.conf
+  237  composer -h
+  238  composer help
+  239  composer -help
+  240  composer
+  241  php composer
+  242  php /usr/bin/composer
+  243  php /usr/local/bin/composer
+  244  php /usr/local/bin/composer -h
+  245  php /usr/local/bin/composer create-project
+  246  php /usr/local/bin/composer create-project laravel/laravel
+  247  php /usr/local/bin/composer create-project laravel/laravel --prefer-dist
+  248  npm run wait
+  249  dir
+  250  cd laravel
+  251  npm run watch
+  252  npm run wait
+  253  npm run watch
+  254  npm install
+  255  npm run watch
+  256  history
+  257  sudo nano /etc/php/7.3/cli/php.ini
+  258  sudo /etc/init.d/apache2 restart
+  259  sudo nano /etc/php/7.3/apache/php.ini
+  260  sudo nano /etc/php/7.3/apache2/php.ini
+  261  sudo /etc/init.d/apache2 restart
+  262  sudo apt-get remove phpmyadmin
+  263  sudo apt-get purge phpmyadmin
+  264  composer artisan serve
+  265  php artisan serve
+  266  npm -c
+  267  npm -v
+  268  node -v
+  269  npm run watch
+  270  php artisan serve
+  271  composer update
+  272  bootstrap
+  273  npm install
+  274  npm instal file--loader --save
+  275  npm install file--loader --save
+  276  npm install -g bootstrap
+  277  php artisan serve
+  278  sudo nano ~/etc/dbconfig-common/phpmyadmin.conf
+  279  sudo nano ~/etc/dbconfig-common/phpmyadmin
+  280  sudo nano etc/dbconfig-common/phpmyadmin.conf
+  281  sudo nano etc/dbconfig-common/config
+  282  sudo nano /etc/apache2/conf-available/phpmyadmin.conf
+  283  sudo nano /etc/dbconfig-common
+  284  sudo nano /etc/dbconfig-common/phpmyadmin.conf
+  285  mysql -u root -p
+  286  sudo gedit /etc/phpmyadmin/config-db.php
+  287  mysql -u root -p
+  288  sudo gedit /etc/phpmyadmin/config-db.php
+  289  sudo gedit /etc/root/config-db.php
+  290  sudo systemctl status mysql
+  291  phh -v
+  292  php -v
+  293  php phpmyadmin
+  294  sudo apt-get purge phpmyadmin
+  295  php -m | grep mysqli
+  296  php -m | grep mysql
+  297  mysql -v
+  298  sudo mysql -v
+  299  mysql -u root -p
+  300  sudo apt-get update
+  301  sudo apt-get install -y phpmyadmin
+  302  sudo apt-get install mysql-server mysql-client
+  303  sudo dpkg-reconfigure phpmyadmin
+  304  mysql
+  305  mysql -u root -p
+  306  sudo apt-get install -y phpmyadmin
+  307  sudo apt-get purge phpmyadmin
+  308  sudo apt-get install -y phpmyadmin
+  309  sudo dpkg-reconfigure phpmyadmin
+  310  mysql -u root -p
+  311  sudo apt-get install -y phpmyadmin
+  312  sudo dpkg-reconfigure phpmyadmin
+  313  sudo apt-get purge mysql
+  314  sudo apt-get purge mysql-client
+  315  sudo apt-get purge mysql-status
+  316  sudo apt-get purge mysql-server
+  317  sudo apt-get purge mysql-client
+  318  sudo apt-get purge mysql-clientsudo apt-get install mysql-server mysql-client
+  319  sudo apt-get install mysql-server mysql-client
+  320  sudo apt-get purge phpmyadmin
+  321  sudo apt-get install phpmyadmin
+  322  sedo service apache2 restart
+  323  sudo service apache2 restart
+  324  sudo apt-get install php7.3-mysql
+  325  sudo apt autoremove
+  326  sudo apt-get install php7.3-mysql
+  327  sudo service apache2 restart
+  328  sudo apt-get install php7.3-mysql
+  329  php -v
+  330  sudo nano /usr/lib/php/20180731/mysqli.so
+  331  sudo apt-get install php7.3-mysqli
+  332  sudo apt-get install php7.3-mysqli.so
+  333  sudo apt-get install php7.3-mysqli-client
+  334  sudo nano /usr/lib/php/20180731/mysqli.so
+  335  sudo service apache2 restart
+  336  php -v
+  337  php -m | grep -i msqli
+  338  php -m | grep -i mysqli
+  339  a2query -m | grep php
+  340  sudo apt-get install php7.2-mysqli
+  341  sudo service apache2 restart
+  342  mysql -u root -p
+  343  mysql
+  344  sudo mysqld_safe --skip-grant-tables &
+  345  mysql -uroot
+  346  sudo /etc/init.d/mysql stop
+  347  sudo mysqld_safe --skip-grant-tables &
+  348  msql -uroot
+  349  use msql;
+  350  sudo mysqld_safe --skip-grant-tables &
+  351  use mysql;
+  352  sudo mysqld_safe --skip-grant-tables &
+  353  sudo mysqld_safe --skip-grant-tables & mysql -uroot
+  354  use mysql;
+  355  update user set authentication_string=PASSWORD("mynewpassword") where User='root';
+  356  flush privileges;
+  357  mysql -u root -p
+  358  mysql -u 
+  359  mysql 
+  360  mysql -u phpmyadmin -p
+  361  sudo /etc/init.d/mysqld start
+  362  sudo apt-get purge mysql
+  363  sudo apt-get purge mysql-client mysql-server
+  364  sudo apt-get install mysql-client mysql-server
+  365  sudo service apache2 restart
+  366  php -v
+  367  php -m | grep -i msqli
+  368  php -m 
+  369  php
+  370  php --v
+  371  sudo service apache2 restart
+  372  sudo nano /etc/phpMyAdmin/config-db.php
+  373  sudo nano /etc/phpmyadmin/config-db.php
+  374  sudo service apache2 restart
+  375  mysql -u root -p
+  376  sudo apt-get purge phpmyadmin
+  377  sudo apt-get install phpmyadmin
+  378  sudo service apache2 restart
+  379  sudo phpenmod mcrypt
+  380  sudo phpenmod mcstring
+  381  sudo phpenmod 
+  382  sudo phpenmod -v
+  383  sudo phpenmod mcrypt
+  384  sudo apt-get php7.3-updat
+  385  sudo apt-get php7.3-update
+  386  sudo apt-get php7.3 update
+  387  sudo apt-get update php7.3 
+  388  sudo apt-getsudo a2enconf phpmyadmin php7.3 
+  389  sudo a2enconf phpmyadmin
+  390  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+  391  sudo ln -s /etc/phpmyadmin/apache.conf 
+  392  gksu gedit /etc/apache2/apache2.conf
+  393  sudo service apache2 reload
+  394  etc/apache2/conf-available/phpmyadmin.conf
+  395  ]
+  396  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+  397  cd PhpstormProjects/simpleweb/laravel
+  398  php artisan make: model Message -m
+  399  php artisan make:model Message -m
+  400  php artisan migrate
+  401  cd PhpstormProjects
+  402  dir
+  403  cd PhpstormProjects/simpleweb/laravel
+  404  cd simpleweb/laravel
+  405  npm run watch
+  406  sudo apt-get update phpmyadmin
+  407  php -v
+  408  sudo apt-get install xdebug
+  409  sudo vim /etc/php/7.3/fpm/conf.d/20-xdebug.ini
+  410  vagrant ssh
+  411  php -i
+  412  php -v
+  413  sudo nano /usr/lib/php/20180731/mysqli.so
+  414  sudo apt-get install php-mysql
+  415  history
+  416  /etc/php/mods-available/
+  417  sudo apt-get update php7.2-mysql
+  418  sudo apt-get php7.2-mysql
+  419  sudo apt-get php7.2-mysql uodate
+  420  a2query -m | grep php
+  421  php -i |grep "php.ini" 
+  422  sudo a2dismod php7.3
+  423  sudo a2enmod php7.2
+  424  sudo service apache2 restart
+  425  sudo apt-get install php7.2-cli php7.2-common php7.2-json php7.2-opcache php7.2-mysql php7.2-mbstring php7.2-mcrypt php7.2-zip php7.2-fpm
+  426  sudo apt-get install php7.2-mcrypt
+  427  php -v
+  428  sudo add-apt-repository ppa:ondrej/php
+  429  sudo apt-get install php7.2
+  430  sudo a2dismod php7.3
+  431  sudo a2dismod php7.2
+  432  service apache2 restart
+  433  sudo a2enmod php7.2
+  434  service apache2 restart
+  435  php -i |grep "php.ini" 
+  436  sudo update-alternatives --set php /usr/bin/php7.2
+  437  sudo rm /usr/bin/php
+  438  sudo ln -s /usr/bin/php7.2 /usr/bin/php
+  439  php -c
+  440  php -v
+  441  service apache2 restart
+  442  sudo nano /etc/apache2/apache2.conf
+  443  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+  444  sudo a2enconf phpmyadmin.conf
+  445  sudp service apache2 reload
+  446  sudo service apache2 reload
+  447  sudo a2enconf phpmyadmin.conf
+  448  sudo service apache2 reload
+  449  cd PhpstormProjects/simpleweb/laravel
+  450  php artisan make:controller pagesController
+  451  /
+  452  cd /
+  453  cd PhpstormProjects
+  454  cd /PhpstormProjects
+  455  cd PhpstormProjects
+  456  cd
+  457  cd PhpstormProjects
+  458  mkdir simpleLogin
+  459  cd simpleLogin
+  460  composer create-project
+  461  composer create-project --prefer-dist 
+  462  composer create-project laravel/laravel
+  463  cd //
+  464  cd
+  465  cd PhpstormProjects/simpleweb/laravel
+  466  php serve make::auth
+  467  php artisan merge
+  468  cd PhpstormProjects/simpleweb/laravel
+  469  npm run watch
+  470  npm install
+  471  php artisan serve
+  472  php artisan promt
+  473  php artisan tinker
+  474  php artisan migrate:fresh
+  475  php artisan serve
+  476  php artisan migrate
+  477  php artisan serve
+  478  php artisan merge
+  479  php artisan migrate
+  480  php artisan serve
+  481  ccd PhpstormProjects/simpleLogin
+  482  cd PhpstormProjects/simpleLogin
+  483  cd laravel
+  484  php artisan make:auth
+  485  npm -v
+  486  node -v
+  487  php artisan
+  488  php artisan migrate
+  489  php artisan tinker
+  490  php artisan
+  491  php artisan help make:controller
+  492  php artisan make:controller ProfilesController
+  493  php artisan
+  494  php artisan help make:model
+  495  php artisan make:model Profile -m
+  496  php artisan migrate
+  497  php artisan tinker
+  498  php artisan make:model Post -m
+  499  php artisan make:controller PostController 
+  500  php artisan make:controller PostsController 
+  501  php artisan tinker
+  502  php artisan
+  503  php artisan storage:link
+  504  php artisan tinker
+  505  cd PhpstormProjects
+  506  dir
+  507  cd simpleLogin/laravel
+  508  npm run watch
+  509  cd PhpstormProjects/simpleLogin/laravel
+  510  php serve tinker
+  511  php artisan tinker
+  512  composer require inervention/image
+  513  composer require intervention/image
+  514  sudo apt-get install php7.1-gd
+  515  php artisan help make:policy
+  516  php artisan make:police ProfilePolicy -m Profile
+  517  php artisan make:policy ProfilePolicy -m Profile
+  518  php artisan migrate:fresh
+  519  $ sudo dpkg -i Ramme_3.0.3_amd64.deb
+  520  cd
+  521  Ramm 
+  522  $ sudo dpkg -i Ramme_3.2.5_amd64.deb
+  523  sudo dpkg -i Ramme_3.2.5_amd64.deb
+  524  cd PhpstormProjects/simpleLogin/laravel
+  525  npm run watch
+  526  cd PhpstormProjects/simpleLogin/laravel
+  527  php artisan make:controller FollowsController
+  528  php artisan make:migration create_profile_user_pivot_table --create profile_user
+  529  php artisan migrate
+  530  npm install vue.js
+  531  php artisan telescope
+  532  php artisan help
+  533  php artisan
+  534  npm isntall relescope
+  535  npm isntall telescope
+  536  php artisan
+  537  composer require laravel/telescope
+  538  apt install php7.2-bcmath
+  539  sudo apt install php7.2-bcmath
+  540  composer require laravel/telescope
+  541  sudo service apache2 restart
+  542  composer require laravel/telescope
+  543  php artisan
+  544  php artisan telescope:install
+  545  sudo apt-get install sendmail
+  546  cd Phpstromprojects/simpleLogin/laravel
+  547  cd Phpstormprojects/simpleLogin/laravel
+  548  cd PhpstormProjects/simpleLogin/laravel
+  549  npm run watch
+  550  php artisan serve
+  551  cd PhpstormProjects/LaravelLearning
+  552  cd blog
+  553  php npm run watch
+  554  npm run watch
+  555  cd PhpstormProjects/LaravelLearning/blog
+  556  git config --global user.name "Ttzombor"
+  557  git config --global user.email ttzombor@gmail.com
+  558  git init
+  559  git add.
+  560  git add .
+  561  git commit -m "Created a project"
+  562  git push origin master
+  563  git status
+  564  git add .
+  565  git status
+  566  git log
+  567  git remote show
+  568  git remote add origin https://github.com/Ttzombor/Blog.git
+  569  git push origin master
+  570  cd ../
+  571  git clone https://github.com/Ttzombor/Blog.git
+  572  cd blog-copy-blog/
+  573  mkdir blog-copy-git
+  574  cd blog-copy-git
+  575  composer install
+  576  git clone https://github.com/Ttzombor/Blog.git blog-copy-git
+  577  /blog-copy-git
+  578  cd blog-copy-git
+  579  composer install
+  580  git log
+  581  git remote show origin
+  582  git pull origin master
+  583  mysql -u root -p
+  584  php artisan config
+  585  php artisan config:cache
+  586  php artisan migrate
+  587  cd ..?
+  588  cd ../
+  589  cd .//
+  590  cd 
+  591  cd PhpstormProjects/LaravelLearning/blog
+  592  dir
+  593  php artisan migrate
+  594  php artisan make:auth
+  595  php artisan make:controller Admin/DashboardController
+  596  php artisan route
+  597  php artisan route:list
+  598  git add .
+  599  git commint -m "Create admin dashboard"
+  600  git commit -m "Create admin dashboard"
+  601  git push origin master
+  602  php artisan make:model Category -m
+  603  php artisan make:contorller Admin/CategoryController --resource --model=Category
+  604  php artisan make:controller Admin/CategoryController --resource --model=Category
+  605  php artisan migrate
+  606  php artisan route:
+  607  php artisan route:list
+  608  history
+  609  git add .
+  610  git commit -m "Create Admin-Categories Demo"
+  611  git push origin master
+  612  git log
+  613  git remote show
+  614  php artisan route
+  615  php artisan route:list
+  616  php artisan migrate
+  617  php artisan route:list
+  618  php artisan tinker
+  619  cd PhpstormProjects
+  620  dir
+  621  cd LaravelLearning/blog
+  622  npm run watch
+  623  cd PhpstormProjects/LaravelLearning/blog
+  624  php artisan
+  625  php artisan route:list
+  626  history
+  627  git add .
+  628  git commit -m "Edit and Delete Admin-Categories"
+  629  git push origin master
+  630  git log
+  631  git remote show
+  632  php artisan make:model Article -m
+  633  php artisanphp artisan make:controller Admin/ArcticleController
+  634  php artisan make:controller Admin/ArcticleController --resource --model=Article
+  635  php artisan migrate
+  636  git add .
+  637  git commit -m "Create Admin-Article DEMO"
+  638  git push origin
+  639  git push origin master
+  640  git log
+  641  cd
+  642  cd PhpstormProjects/LaravelLearning/blog
+  643  php artisan make:migration create_categoryable_table --create=categoryables
+  644  php artisan make migrate
+  645  php artisan make:migrate
+  646  php artisan migrate
+  647  composer requier unisharp/laravel-ckeditor
+  648  y
+  649  composer require unisharp/laravel-ckeditor
+  650  php artisan vendor:publish --tag=ckeditor
+  651  php artisan config:cache
+  652  yarn
+  653  git add .
+  654  history
+  655  git commit -m "Create-Update Admin-Article"
+  656  git push origin
+  657  git push origin master
+  658  history
+  659  php artisan tinker
+  660  cd PhpstormProjects
+  661  dir
+  662  cd LearningLaravel
+  663  dir
+  664  cd ../
+  665  dir
+  666  cd LaravelLearning/blog
+  667  artisan start watch
+  668  history
+  669  npm run wathc
+  670  npm run watch
+  671  cd LearningLaravel
+  672  cd PhpstormProjects
+  673  cd LearningLaravel
+  674  cd blog
+  675  dir
+  676  cd ..
+  677  dir
+  678  cd LearningLaravel
+  679  dir
+  680  cd ..
+  681  cd LaravelLearning/blog
+  682  history
+  683  git add .
+  684  git commit -m "Completing something"
+  685  git push origin master
+  686  cd PhpstormProjects/LaravelLearning/blog
+  687  php artisan make:provider Blog
+  688  php artisan make:provider BlogServiceProvider
+  689  php artisan config:cache
+  690  artisan make:controller BlogController
+  691  php artisan make:controller BlogController
+  692  php artisan make:controller Admin/UserManagment/Usercontroller --resource -model=User
+  693  php artisan make:controller Admin/UserManagment/Usercontroller --resource --model=User
+  694  php artisan route:list
+  695  php artisan route:list()
+  696  php artisan route
+  697  php artisan route:list
+  698  |        | GET|HEAD  | blog/article/{slug?}                  | article                           | App\Http\Controllers\BlogController@article                            | web          |
+  699  git add .
+  700  git pull master origin
+  701  git pull origin master
+  702  history
+  703  git commit -m "Adding Admin.User_Manager"
+  704  git push origin master
+  705  npm run install
+  706  npm install
+  707  php artisan serve
+  708  nodejs -v
+  709  npm -v
+  710  npm install vue.js
+  711  npm install
+  712  npm install yarn
+  713  vue.js -v
+  714  npm install yarl
+  715  npm instal vue --save
+  716  npm install vue --save
+  717  npm install
+  718  npm install node.js
+  719  php artisan migrate
+  720  npm run dev
+  721  npm install
+  722  npm run dev
+  723  node -v
+  724  npm -v
+  725  history
+  726  npm
+  727  npm update package.json
+  728  npm install
+  729  npm run dev
+  730  rm -rf node_modules
+  731  rm package.json jarn.lock
+  732  rm package.json
+  733  npm cache clear --force
+  734  npm install
+  735  npm run dev
+  736  npm install
+  737  npm update
+  738  npm install
+  739  node -v
+  740  npm -v
+  741  vue -v
+  742  npm run dev
+  743  npm install
+  744  npm -v
+  745  node -v
+  746  npm install vue
+  747  npm run dev
+  748  npm update
+  749  npm install yarl
+  750  npm update node
+  751  node 0v
+  752  node -v
+  753  npm -v
+  754  artisan make serve
+  755  php artisan serve
+  756  npm run watch
+  757  npm install && npm install vue-router
+  758  npm install
+  759  npm audit
+  760  cd PhpStormProjects/LaravelLearning/blog
+  761  cd PhpstormProjects/LaravelLearning/blog
+  762  npm run watch
+  763  cd ../
+  764  composer create-project laravel/laravel VuePlusLaravel
+  765  dir
+  766  cd VuePlusLaravel
+  767  npm run watch-poll
+  768  npm run dev
+  769  cd ../
+  770  cd
+  771  cd PhpstormProjects
+  772  composer create-project laravel/laravel VuePlusLaravel
+  773  node -v
+  774  sudo update node
+  775  composer create-project laravel/laravel VueLaravel
+  776  npm -v
+  777  node -v
+  778  npm run dev
+  779  php artisan serve
+  780  npm rebuild node-sass --force
+  781  npm -v
+  782  node -v
+  783  vue -v
+  784  cd PhpstormProjects
+  785  composer create-project laravel/laravel VueLaravel
+  786  npm install
+  787  npm run watch
+  788  mix.js('resources/assets/js/app.js', 'public/js')
+  789  yarn -v
+  790  npm install
+  791  npm run watch
+  792  npm install vue
+  793  yarn global add @vue/cli
+  794  npm install
+  795  npm install @vue/cli
+  796  npm install
+  797  npm audit fix
+  798  npm install vue.js
+  799  cd PhpstormProjects
+  800  composer create-project laravel/laravel VueLaravel
+  801  composer
+  802  composer create-project 
+  803  composer create-project laravel/laravel LaravelVue
+  804  composer create-project laravel/laravel VueLaravel
+  805  cd VueLaravel
+  806  npm install
+  807  node -v
+  808  npm -v
+  809  yarl -v
+  810  npm watch-poll
+  811  npm run watch-poll
+  812  npm install vuejs
+  813  npm install vue
+  814  yarn -v
+  815  history
+  816  npm
+  817  npm run dev
+  818  npm
+  819  yarn install
+  820  sudo apt-get update && sudo apt-get install yarn
+  821  vue install
+  822  npm install
+  823  npm run watch
+  824  php artisan make:auth
+  825  php artisan
+  826  php artisan make:auth
+  827  composer require laravel/ui
+  828  node -v
+  829  npm -v
+  830  yarn -v
+  831  composer require laravel/ui --dev
+  832  cd PhpstormProjects/VueLaravel
+  833  php artisan ui:auth
+  834  php artisan migrate
+  835  history
+  836  php artisan make:controller StartController
+  837  php artisan make:controller StartController --resource
+  838  axios -v
+  839  yarn add chart.js
+  840  yarn add vue-chartjs
+  841  git add .
+  842  git add
+  843  git status
+  844  git
+  845  git init VueLaravel
+  846  git add .
+  847  git add
+  848  git init
+  849  git add .
+  850  git commit -m "Created Prop, Ajax, LineChart Vue Components"
+  851  git push 
+  852  git push origin master
+  853  git push origin
+  854  git status
+  855  git push master
+  856  git remote
+  857  git remote show
+  858  git log
+  859  git push origin master
+  860  git push 
+  861  git remote add https://github.com/Ttzombor/VueLaravel
+  862  git push origin master
+  863  git status
+  864  git push
+  865  git push origin master
+  866  git remote add origin https://github.com/Ttzombor/VueLaravel
+  867  git push origin master
+  868  git checkout -b new-branch master
+  869  git add .
+  870  git push origin new-branch
+  871  php artisan serve
+  872  php artisan migrate
+  873  php artisan serve
+  874  npm install
+  875  npm run dev
+  876  php artisan serve
+  877  npm run watch-poll
+  878  git add .
+  879  git commit -m "Created LineChartRandom Vue Component"
+  880  git push origin "new-branch"
+  881  git status
+  882  sudo apt install redis-server
+  883  git hosstory
+  884  git history
+  885  git
+  886  git status
+  887  sudo apt-get install redis-server
+  888  sudo apt install redis-server
+  889  sudo apt
+  890  sudo apt install
+  891  sudo fuser -v /var/lib/dpkg/lock
+  892  sudo fuser -vki /var/lib/dpkg/lock
+  893  sudo dpkg --configure -a
+  894  sudo apt install redis-server
+  895  Redis
+  896  node redis
+  897  laravel -v
+  898  php artisan cache:clear
+  899  php artisan config:cache
+  900  redis-cli
+  901  php artisane make:event NewMessage
+  902  php artisan make:event NewMessage
+  903  php artisan serve
+  904  git add .
+  905  git commit -m "Created SocketChartComponent Server.js NewEvent"
+  906  git push origin new-branch
+  907  git info
+  908  git
+  909  git satus
+  910  git status
+  911  node server.js
+  912  history
+  913  killall -9 node
+  914  node server.js
+  915  dir
+  916  cd PhpstormProjects
+  917  composer create-project laravel/laravel LaravelEchoServer
+  918  sudo apt install redis-server
+  919  redis-cli
+  920  composer require predis/preids
+  921  composer require predis/predis
+  922  php artisan queue:work
+  923  composer require predis/predis
+  924  npm run watch-poll
+  925  php artisan config:cache
+  926  php artisan cache:clear
+  927  npm run watch-poll
+  928  netstat -an | grep 6379
+  929  git add .
+  930  git commit -m "Category Controller"
+  931  git push origin master
+  932  php artisan migrate:fresh --seed
+  933  git commint -m "Created Category Editor"
+  934  git commit -m "Created Category Editor"
+  935  git push origin master
+  936  workbench
+  937  start workbench
+  938  hostiry
+  939  history
+  940  mysql-workbench
+  941  php artisan serve
+  942  npm run watch-poll
+  943  php artisan make:request BlogCategoryUpdateRequest
+  944  git push origin: master
+  945  git push origin master
+  946  php artisan migrate:refresh --seed
+  947  php artisan -v
+  948  php artisan -V
+  949  php artisan make:request BlogCategoryUpdateRequest
+  950  php artisan make:request BlogCategoryCreateRequest
+  951  php artisan cache:clear
+  952  php artisan cache:fresh
+  953  php artisan route:list
+  954  workbench start
+  955  mysql-workbench
+  956  git push origin master
+  957  php artisacomposer dump-autoload
+  958  composer dump-autoload
+  959  composer update
+  960  composer dump-auto
+  961  git push origin master
+  962  php artisan make:controller Blog/Admin/PostController -r
+  963  php artisan route:list > route.txt
+  964  php artisan route:list >route.txt
+  965  php artisan list:route >route.txt
+  966  php artisan route:list >route.txt
+  967  php artisan route:list 
+  968  php artisan route
+  969  php artisan route:list
+  970  php artisan migrate:refresh --seed
+  971  git push origin master
+  972  php artisan route:list
+  973  php artisan route:list >route.txt
+  974  sudo apt update
+  975  sudo apt install apt-transport-https
+  976  sudo add-apt-repository universe
+  977  wget -q -O - https://deb.torproject.org/torproject.org/A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89.asc | sudo apt-key add -
+  978  echo "deb https://deb.torproject.org/torproject.org $(lsb_release -cs) main" | sudo tee -a /etc/apt/sources.list
+  979  sudo apt update
+  980  sudo apt install tor deb.torproject.org-keyring torbrowser-launcher
+  981  php artisan make:request BlogPostUpdateRequest
+  982  git push origin master
+  983  php artisan make:observer BlogCategoryObserver --model=Models/BlogCategory
+  984  php artisan make:observer BlogPostObserver --model=Models/BlogPost
+  985  php artisan migrate:fresh --seed
+  986  php artisan route:list >route.txt
+  987  mysql-workbench
+  988  php artisan migrate
+  989  php artisan make:migration create_users_table --create=users
+  990  php artisan make:migration create_posts_table --create=posts
+  991  php artisan migrate
+  992  php artisan make:controller PostController --resource --model=Post
+  993  php artisan make:factory PostFactory --model=Post
+  994  php artisan migrate:fresh --seed
+  995  php artisan db:seed
+  996  php artisan migrate:fresh --seed
+  997  php artisan config:cache
+  998  php artisan serve
+  999  php artisan storage:link
+ 1000  php artisan serve
+ 1001  npm install --save laravel-echo
+ 1002  npm install --save socket.io-client
+ 1003  php artisan chat:message "Всем приветики"
+ 1004  php artisan migrate
+ 1005  php artisan chat:message "Всем приветики"
+ 1006  npm install --save laravel-echo pusher-js
+ 1007  php artisan chat:message "Всем приветики"
+ 1008  php artisan chat:message "lol"
+ 1009* $ 
+ 1010  php artisan chat:message "lol"
+ 1011  php artisan clear:cache
+ 1012  php artisan config:cache
+ 1013  php artisan chat:message "lol"
+ 1014  php artisan config:cache
+ 1015  composer update
+ 1016  php artisan chat:message "lol"
+ 1017  composer update
+ 1018  php artisan chat:message "lol"
+ 1019  php artisan discover:package
+ 1020  php artisan package:discover
+ 1021  php artisan config:cache
+ 1022  php artisan chat:message "lol"
+ 1023  php artisan config:cache
+ 1024  php artisan chat:message "lol"
+ 1025  php artisan config:cache
+ 1026  omposer require pusher/pusher-php-server "~3.0"
+ 1027  composer require pusher/pusher-php-server "~3.0"
+ 1028  php artisan config:cache
+ 1029  php artisan chat:message "lol"
+ 1030  history >history.txt

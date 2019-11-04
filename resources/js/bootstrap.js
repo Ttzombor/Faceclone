@@ -39,3 +39,19 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 //     cluster: process.env.MIX_PUSHER_APP_CLUSTER,
 //     encrypted: true
 // });
+
+import Echo from "laravel-echo"
+
+window.Pusher = require('pusher-js');
+
+window.Echo = new Echo({
+    broadcaster: 'pusher',
+    key: 'fb03b6a49bd837475a4e',
+    cluster: 'eu',
+    forceTLS: true
+});
+
+let channel = Echo.channel('chat-room');
+channel.listen('.message-pushed', function(data) {
+    alert(JSON.stringify(data));
+});
